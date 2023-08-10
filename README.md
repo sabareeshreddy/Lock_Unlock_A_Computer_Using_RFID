@@ -11,12 +11,10 @@
 [![GitHub issues](https://img.shields.io/github/issues/Sabareesh000/Lock_Unlock_A_Computer_Using_RFID.svg)](https://github.com/Sabareesh000/Lock_Unlock_A_Computer_Using_RFID/issues)
 [![GitHub contributors](https://img.shields.io/github/contributors/Sabareesh000/Lock_Unlock_A_Computer_Using_RFID.svg)](https://github.com/Sabareesh000/Lock_Unlock_A_Computer_Using_RFID/graphs/contributors)
 
-[![GitHub license](https://img.shields.io/github/license/Sabareesh000/Lock_Unlock_A_Computer_Using_RFID.svg)](https://github.com/Sabareesh000/Lock_Unlock_A_Computer_Using_RFID/blob/master/LICENSE)
-[![GitHub release](https://img.shields.io/github/release/Sabareesh000/Lock_Unlock_A_Computer_Using_RFID.svg)](https://github.com/Sabareesh000/Lock_Unlock_A_Computer_Using_RFID/releases)
+
 [![GitHub repo size](https://img.shields.io/github/repo-size/Sabareesh000/Lock_Unlock_A_Computer_Using_RFID)](https://github.com/Sabareesh000/Lock_Unlock_A_Computer_Using_RFID)
 
-[![Code of Conduct](https://img.shields.io/badge/code%20of-conduct-ff69b4.svg?style=flat)](https://github.com/Sabareesh000/Lock_Unlock_A_Computer_Using_RFID/blob/master/.github/CODE_OF_CONDUCT.md)
-[![Open Source Love svg1](https://img.shields.io/static/v1?label=Open&message=Source%20%E2%9D%A4%EF%B8%8F&color=blueviolet)](https://github.com/Sabareesh000/Lock_Unlock_A_Computer_Using_RFID/blob/master/.github/CONTRIBUTING.md)
+
 
 ## Table of Contents
 
