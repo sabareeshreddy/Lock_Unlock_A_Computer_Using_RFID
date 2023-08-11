@@ -211,3 +211,5 @@ the folder.
 <p align="center">
     <img src="assets/Demo.gif" alt="Demo" border="0">
 </p>
+## License
+Lock_Unlock_A_Computer_Using_RFID is under The MIT License. Read the [LICENSE](https://github.com/sabareeshreddy/Lock_Unlock_A_Computer_Using_RFID/blob/main/LICENSE) file for more information.
